@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
 import DropdownList from './DropDownList'
-import { venues } from './sample-data/venues'
+import venues from './sample-data/venues.json'
 import Venues from './Venues'
 
 function App() {
